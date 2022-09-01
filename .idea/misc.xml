@@ -16,6 +16,14 @@
         <entry key="..\:/AuctionApp/app/src/main/res/layout/layout_show_all_auction_products.xml" value="0.19972826086956522" />
         <entry key="..\:/AuctionApp/app/src/main/res/layout/layout_show_all_bidders.xml" value="0.19972826086956522" />
         <entry key="..\:/AuctionApp/app/src/main/res/layout/product_layout.xml" value="0.19972826086956522" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/auctionapp-/app/src/main/res/layout/activity_auction_list.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/auctionapp-/app/src/main/res/layout/activity_main.xml" value="0.2601851851851852" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/auctionapp-/app/src/main/res/layout/activity_my_products.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/auctionapp-/app/src/main/res/layout/activity_place_bid.xml" value="0.22" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/auctionapp-/app/src/main/res/layout/activity_user_register.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/auctionapp-/app/src/main/res/layout/activity_user_signin.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/auctionapp-/app/src/main/res/layout/activity_winner_list.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/auctionapp-/app/src/main/res/layout/product_layout.xml" value="0.27291666666666664" />
         <entry key="..\:/Users/DELL/AndroidStudioProjects/AuctionApp/app/src/main/res/drawable/bg_rounded_input_field.xml" value="0.2784615384615385" />
         <entry key="..\:/Users/DELL/AndroidStudioProjects/AuctionApp/app/src/main/res/drawable/ic_baseline_add_24.xml" value="0.2784615384615385" />
         <entry key="..\:/Users/DELL/AndroidStudioProjects/AuctionApp/app/src/main/res/layout/activity_auction_list.xml" value="0.26666666666666666" />

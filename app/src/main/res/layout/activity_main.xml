@@ -32,7 +32,7 @@
             android:layout_gravity="bottom"
             android:layout_marginTop="50dp"
             android:background="@drawable/bg_rounded_input_field"
-            android:text=" Auction List"
+            android:text=" Bidding List"
             android:textAllCaps="false"
             android:textColor="@color/white"
             android:textSize="16sp" />

@@ -30,6 +30,11 @@ AuctionList extends AppCompatActivity {
     List<productModel> mList = new ArrayList<>();
     AuctionListAdapter mAdapter;
 
+    public void onBackPressed(){
+        Intent intent = new Intent(getApplicationContext(),MainActivity.class);
+        intent.putExtra("username",username);
+        startActivity(intent);
+    }
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);

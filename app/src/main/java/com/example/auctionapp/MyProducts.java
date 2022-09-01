@@ -80,21 +80,14 @@ public class MyProducts extends AppCompatActivity {
     ImageView iv_showOrders;
     ImageView iv_logout;
 
+
     public MyProducts() {
     }
 
-    @Override
-    public void onBackPressed() {
-        if (pressedTime + 2000 > System.currentTimeMillis()) {
-            Intent a = new Intent(Intent.ACTION_MAIN);
-            a.addCategory(Intent.CATEGORY_HOME);
-            a.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
-            startActivity(a);
-            finish();
-        } else {
-            Toast.makeText(getBaseContext(), "Press back again to exit", Toast.LENGTH_SHORT).show();
-        }
-        pressedTime = System.currentTimeMillis();
+    public void onBackPressed(){
+        Intent intent = new Intent(getApplicationContext(),MainActivity.class);
+        intent.putExtra("username",username);
+        startActivity(intent);
     }
 
     @Override
